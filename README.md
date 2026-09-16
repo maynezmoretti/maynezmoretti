@@ -4,7 +4,7 @@
 
 <br>
 
-<code>Desenvolvimento de Sistemas</code>
+<code><strong>Desenvolvimento de Sistemas</strong></code>
 
 [![GitHub](https://img.shields.io/badge/GitHub-6C3FC5?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/maynezmoretti)
 [![SENAI](https://img.shields.io/badge/SENAI-Desenvolvimento%20de%20Sistemas-6C3FC5?style=for-the-badge)](https://www.sp.senai.br/)
