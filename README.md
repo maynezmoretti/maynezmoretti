@@ -4,7 +4,7 @@
 
 <br>
 
-<strong>Desenvolvimento de Sistemas&nbsp; • &nbsp;Robótica&nbsp; • &nbsp;Tecnologias</strong>
+![Desenvolvimento de Sistemas](https://img.shields.io/badge/Desenvolvimento%20de%20Sistemas-f0f0f0?style=flat-square&labelColor=f0f0f0&color=f0f0f0)
 
 [![GitHub](https://img.shields.io/badge/GitHub-6C3FC5?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/maynezmoretti)
 [![SENAI](https://img.shields.io/badge/SENAI-Desenvolvimento%20de%20Sistemas-6C3FC5?style=for-the-badge)](https://www.sp.senai.br/)
