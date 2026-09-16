@@ -1,10 +1,10 @@
-<p align="center">
-  <strong>Desenvolvimento de Sistemas</strong>
-</p>
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C3FC5&height=200&section=header&text=MAYNE%20ZARDO%20MORETTI&fontSize=38&fontColor=FFFFFF&fontAlignY=55&animation=fadeIn" width="100%">
 
 <br>
+
+<code>Desenvolvimento de Sistemas</code>
 
 [![GitHub](https://img.shields.io/badge/GitHub-6C3FC5?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/maynezmoretti)
 [![SENAI](https://img.shields.io/badge/SENAI-Desenvolvimento%20de%20Sistemas-6C3FC5?style=for-the-badge)](https://www.sp.senai.br/)
