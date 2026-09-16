@@ -4,7 +4,7 @@
 
 <br>
 
-### Estudante de Desenvolvimento de Sistemas 💜
+<strong>Desenvolvimento de Sistemas&nbsp; • &nbsp;Robótica&nbsp; • &nbsp;Tecnologias</strong>
 
 [![GitHub](https://img.shields.io/badge/GitHub-6C3FC5?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/maynezmoretti)
 [![SENAI](https://img.shields.io/badge/SENAI-Desenvolvimento%20de%20Sistemas-6C3FC5?style=for-the-badge)](https://www.sp.senai.br/)
