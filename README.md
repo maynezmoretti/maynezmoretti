@@ -16,10 +16,6 @@
 <img src="https://img.shields.io/badge/SENAI-Desenvolvimento%20de%20Sistemas-6A3D9A?style=for-the-badge"/>
 </a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=maynezmoretti&color=6A3D9A&style=for-the-badge&label=VISITAS+NO+PERFIL"/>
-
 </div>
 
 ---
