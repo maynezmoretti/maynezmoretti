@@ -91,7 +91,7 @@ Técnico em Desenvolvimento de Sistemas — **SENAI Americana**
 <img src="https://img.shields.io/badge/PostgreSQL-F1E8FA?style=flat-square&logo=postgresql&logoColor=9B63CA"/>
 <img src="https://img.shields.io/badge/VS%20Code-F1E8FA?style=flat-square&logo=visualstudiocode&logoColor=9B63CA"/>
 <img src="https://img.shields.io/badge/MongoDB-F1E8FA?style=flat-square&logo=mongodb&logoColor=9B63CA"/>
-<img src="https://img.shields.io/badge/CSS-F1E8FA?style=flat-square&logo=css&logoColor=9B63CA"/>
+<img src="https://img.shields.io/badge/CSS3-F1E8FA?style=flat-square&logo=css3&logoColor=9B63CA"/>
 
 </div>
 
