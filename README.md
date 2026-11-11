@@ -27,9 +27,7 @@
 
 Olá! Sou **Mayne Zardo Moretti**, estudante do 2º ano do Ensino Médio no **SESI 101** e aluna do curso Técnico em Desenvolvimento de Sistemas no **SENAI de Americana**.
 
-Tenho interesse pela área de tecnologia e desenvolvimento de software. Estou sempre buscando aprender novas ferramentas, aprimorar meus conhecimentos e transformar ideias em projetos.
-
-Atualmente, meus estudos estão concentrados em desenvolvimento Back-End, bancos de dados e construção de aplicações.
+Atualmente, estou aprendendo sobre **desenvolvimento Back-End, linguagens de marcação e estilização**, além de **bancos de dados** e outras tecnologias utilizadas no desenvolvimento de aplicações.
 
 ---
 
@@ -81,7 +79,7 @@ Atualmente, meus estudos estão concentrados em desenvolvimento Back-End, bancos
 <tr>
 <td align="center">
 
-**୭ FRONT-END**
+**୭ FRONT-END | LINGUAGEM DE MARCAÇÃO/ESTILIZAÇÃO**
 
 </td>
 <td>
