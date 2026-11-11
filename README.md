@@ -22,7 +22,7 @@
 
 <div align="center">
 
-## ୨୧ SOBRE MIM ୨୧
+## SOBRE MIM
 
 <table>
 <tr>
@@ -43,11 +43,11 @@ Sou estudante do Ensino Médio e curso **Técnico em Desenvolvimento de Sistemas
 
 <br><br>
 
-Ensino Médio — **SESI 101**
+- Ensino Médio — **SESI 101**
 
 <br>
 
-Técnico em Desenvolvimento de Sistemas — **SENAI Americana**
+- Técnico em Desenvolvimento de Sistemas — **SENAI Americana**
 
 </td>
 
@@ -60,7 +60,7 @@ Técnico em Desenvolvimento de Sistemas — **SENAI Americana**
 
 <div align="center">
 
-# ✧ LINGUAGENS
+# LINGUAGENS
 
 <br>
 
@@ -74,7 +74,7 @@ Técnico em Desenvolvimento de Sistemas — **SENAI Americana**
 
 <div align="center">
 
-# ⌘ FERRAMENTAS & TECNOLOGIAS
+# FERRAMENTAS & TECNOLOGIAS
 
 <br>
 
@@ -99,7 +99,7 @@ Técnico em Desenvolvimento de Sistemas — **SENAI Americana**
 
 <div align="center">
 
-# ꕤ O QUE ESTOU APRENDENDO
+# O QUE ESTOU APRENDENDO
 
 </div>
 
@@ -195,7 +195,7 @@ Desenvolvimento e organização de código, criação de arquivos, uso de extens
 
 <div align="center">
 
-# ⋆ GITHUB
+# GITHUB ⋆
 
 <br>
 
@@ -213,7 +213,7 @@ Desenvolvimento e organização de código, criação de arquivos, uso de extens
 
 <div align="center">
 
-# ♡ CONTATO ♡
+# CONTATO
 
 <br>
 
