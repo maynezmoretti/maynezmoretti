@@ -1,19 +1,18 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9B63CA&height=220&section=header&text=MAYNE%20ZARDO%20MORETTI&fontSize=40&fontColor=FFFFFF&fontAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7543A3,100:9B63CA&height=230&section=header&text=MAYNE%20ZARDO%20MORETTI&fontSize=38&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=9B63CA&center=true&vCenter=true&width=600&lines=Desenvolvimento+de+Sistemas;Estudante+de+Tecnologia;Transformando+ideias+em+c%C3%B3digo" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=9B63CA&center=true&vCenter=true&width=650&lines=Desenvolvimento+de+Sistemas;Estudante+de+Tecnologia;Transformando+ideias+em+c%C3%B3digo" />
 
 <br><br>
 
 <a href="https://github.com/maynezmoretti">
-<img src="https://img.shields.io/badge/GitHub-F1E8FA?style=for-the-badge&logo=github&logoColor=9B63CA"/>
+<img src="https://img.shields.io/badge/GitHub-9B63CA?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://www.sp.senai.br/">
-<img src="https://img.shields.io/badge/SENAI-Desenvolvimento%20de%20Sistemas-9B63CA?style=for-the-badge&labelColor=F1E8FA&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/SENAI-7543A3?style=for-the-badge&logoColor=white"/>
 </a>
 
 </div>
@@ -22,37 +21,31 @@
 
 <div align="center">
 
-## SOBRE MIM
+## ✦ SOBRE MIM
 
-<table>
-<tr>
+</div>
 
-<td width="50%" align="center">
+Olá! Sou **Mayne Zardo Moretti**, estudante do 2º ano do Ensino Médio no **SESI 101** e aluna do curso Técnico em Desenvolvimento de Sistemas no **SENAI de Americana**.
 
-<img src="https://img.shields.io/badge/01-PERFIL-F1E8FA?style=for-the-badge&labelColor=F1E8FA&color=9B63CA"/>
+Tenho interesse pela área de tecnologia e desenvolvimento de software. Estou sempre buscando aprender novas ferramentas, aprimorar meus conhecimentos e transformar ideias em projetos.
 
-<br><br>
+Atualmente, meus estudos estão concentrados em desenvolvimento Back-End, bancos de dados e construção de aplicações.
 
-Sou estudante do Ensino Médio e curso **Técnico em Desenvolvimento de Sistemas**
+---
 
-</td>
+<div align="center">
 
-<td width="50%" align="center">
-
-<img src="https://img.shields.io/badge/02-FORMAÇÃO-F1E8FA?style=for-the-badge&labelColor=F1E8FA&color=9B63CA"/>
-
-<br><br>
-
-- Ensino Médio — **SESI 101**
+## ✦ LINGUAGENS E TECNOLOGIAS
 
 <br>
 
-- Técnico em Desenvolvimento de Sistemas — **SENAI Americana**
+<img src="https://skillicons.dev/icons?i=php,html,css,js,python,postgres,mongodb&theme=light" />
 
-</td>
+<br><br>
 
-</tr>
-</table>
+## ✦ FERRAMENTAS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" />
 
 </div>
 
@@ -60,46 +53,7 @@ Sou estudante do Ensino Médio e curso **Técnico em Desenvolvimento de Sistemas
 
 <div align="center">
 
-# LINGUAGENS
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=php,html,python,js,md,css&theme=light" />
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-# FERRAMENTAS & TECNOLOGIAS
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=php,html,python,js,git,github,postgres,vscode,mongodb,css&theme=light" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/PHP-F1E8FA?style=flat-square&logo=php&logoColor=9B63CA"/>
-<img src="https://img.shields.io/badge/HTML5-F1E8FA?style=flat-square&logo=html5&logoColor=9B63CA"/>
-<img src="https://img.shields.io/badge/Python-F1E8FA?style=flat-square&logo=python&logoColor=9B63CA"/>
-<img src="https://img.shields.io/badge/JavaScript-F1E8FA?style=flat-square&logo=javascript&logoColor=9B63CA"/>
-<img src="https://img.shields.io/badge/Git-F1E8FA?style=flat-square&logo=git&logoColor=9B63CA"/>
-<img src="https://img.shields.io/badge/GitHub-F1E8FA?style=flat-square&logo=github&logoColor=9B63CA"/>
-<img src="https://img.shields.io/badge/PostgreSQL-F1E8FA?style=flat-square&logo=postgresql&logoColor=9B63CA"/>
-<img src="https://img.shields.io/badge/VS%20Code-F1E8FA?style=flat-square&logo=visualstudiocode&logoColor=9B63CA"/>
-<img src="https://img.shields.io/badge/MongoDB-F1E8FA?style=flat-square&logo=mongodb&logoColor=9B63CA"/>
-<img src="https://img.shields.io/badge/CSS3-F1E8FA?style=flat-square&logo=css3&logoColor=9B63CA"/>
-
-</div>
-
----
-
-<div align="center">
-
-# O QUE ESTOU APRENDENDO
+## ✦ MINHA JORNADA DE APRENDIZADO
 
 </div>
 
@@ -107,13 +61,19 @@ Sou estudante do Ensino Médio e curso **Técnico em Desenvolvimento de Sistemas
 <tr>
 <td width="25%" align="center">
 
-### ୭ BACKEND
+**୭ BACK-END**
 
 </td>
-
 <td>
 
-**PHP:** Lógica de programação, desenvolvimento Back-End, funções, arrays, condicionais, estruturas de repetição, validações, Programação Orientada a Objetos (POO), conexão com PostgreSQL, consultas SQL, PDO, autenticação, sessões, segurança de aplicações, arquitetura MVC, Composer e organização de código
+**PHP**
+
+- Lógica de programação e estruturas de controle.
+- Funções, arrays e validações.
+- Programação Orientada a Objetos (POO).
+- PDO e integração com PostgreSQL.
+- Autenticação, sessões e segurança.
+- Arquitetura MVC e Composer.
 
 </td>
 </tr>
@@ -121,13 +81,18 @@ Sou estudante do Ensino Médio e curso **Técnico em Desenvolvimento de Sistemas
 <tr>
 <td align="center">
 
-### ౨ৎ HTML
+**୭ FRONT-END**
 
 </td>
-
 <td>
 
-**HTML:** Estrutura básica de páginas HTML5, tags e atributos, títulos, parágrafos, links, imagens, listas, tabelas, formulários, elementos semânticos, organização de conteúdo e integração com CSS
+**HTML5 e CSS3**
+
+- Estruturação de páginas web.
+- Tags, atributos e elementos semânticos.
+- Formulários, tabelas, imagens e links.
+- Seletores, cores, fontes e estilização.
+- Introdução ao Flexbox e organização de layouts.
 
 </td>
 </tr>
@@ -135,13 +100,17 @@ Sou estudante do Ensino Médio e curso **Técnico em Desenvolvimento de Sistemas
 <tr>
 <td align="center">
 
-### ✿ CSS
+**୭ PROGRAMAÇÃO**
 
 </td>
-
 <td>
 
-**CSS:** Introdução à estilização de páginas web, sintaxe básica, seletores simples, cores, fontes, tamanhos de texto, propriedades de texto, cores de fundo, bordas e aplicação de estilos em elementos HTML
+**Python e JavaScript**
+
+- Fundamentos de programação.
+- Variáveis e tipos de dados.
+- Estruturas condicionais e de repetição.
+- Introdução à lógica de desenvolvimento.
 
 </td>
 </tr>
@@ -149,14 +118,23 @@ Sou estudante do Ensino Médio e curso **Técnico em Desenvolvimento de Sistemas
 <tr>
 <td align="center">
 
-### 𖦹 DATABASE
+**୭ DATABASE**
 
 </td>
-
 <td>
 
-- **PostgreSQL:** Introdução a bancos de dados relacionais, criação de bancos de dados e tabelas, tipos de dados, chaves primárias e estrangeiras, comandos SQL, inserção, consulta, atualização e exclusão de registros, filtros com WHERE, ordenação com ORDER BY e relacionamentos entre tabelas
-- **MongoDB:** Introdução a bancos de dados NoSQL, diferenças entre bancos relacionais e não relacionais, conceitos de bancos de dados, coleções e documentos, primeiros passos na criação de clusters e bancos de dados
+**PostgreSQL**
+- Bancos de dados relacionais.
+- Criação de tabelas e relacionamentos.
+- Comandos SQL e consultas.
+- Chaves primárias e estrangeiras.
+- Operações CRUD e consultas com PDO.
+
+**MongoDB**
+- Conceitos de bancos NoSQL.
+- Documentos e coleções.
+- Criação de clusters e bancos de dados.
+- Integração com aplicações Node.js.
 
 </td>
 </tr>
@@ -164,44 +142,51 @@ Sou estudante do Ensino Médio e curso **Técnico em Desenvolvimento de Sistemas
 <tr>
 <td align="center">
 
-### ⟡ GIT & GITHUB
+**୭ VERSIONAMENTO**
 
 </td>
-
 <td>
 
-Versionamento de códigos, organização de projetos, criação de repositórios e colaboração em equipe
+**Git e GitHub**
+
+- Controle de versão.
+- Criação e organização de repositórios.
+- Commits e gerenciamento de projetos.
+- Compartilhamento de código.
 
 </td>
 </tr>
-
-<tr>
-<td align="center">
-
-### ⌕ VS CODE
-
-</td>
-
-<td>
-
-Desenvolvimento e organização de código, criação de arquivos, uso de extensões e configuração do ambiente de programação
-
-</td>
-</tr>
-
 </table>
 
 ---
 
 <div align="center">
 
-# GITHUB ⋆
+## ✦ PROJETOS
 
 <br>
 
-<img height="180em" src="https://github-stats-extended.vercel.app/api?username=maynezmoretti&show_icons=true&hide_border=true&title_color=9B63CA&icon_color=9B63CA&text_color=777777&bg_color=FFFFFF&cache_seconds=86400"/>
+<a href="https://github.com/maynezmoretti?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORAR%20MEUS%20REPOSIT%C3%93RIOS-9B63CA?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=maynezmoretti&layout=compact&hide_border=true&title_color=9B63CA&text_color=777777&bg_color=FFFFFF&cache_seconds=86400"/>
+<br><br>
+
+Projetos acadêmicos e exercícios desenvolvidos durante minha formação em Desenvolvimento de Sistemas no SENAI.
+
+</div>
+
+---
+
+<div align="center">
+
+## ✦ GITHUB
+
+<br>
+
+<img height="165em" src="https://github-stats-extended.vercel.app/api?username=maynezmoretti&show_icons=true&hide_border=true&title_color=9B63CA&icon_color=9B63CA&text_color=777777&bg_color=FFFFFF&cache_seconds=86400"/>
+
+<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs?username=maynezmoretti&layout=compact&hide_border=true&title_color=9B63CA&text_color=777777&bg_color=FFFFFF&cache_seconds=86400"/>
 
 <br><br>
 
@@ -213,26 +198,24 @@ Desenvolvimento e organização de código, criação de arquivos, uso de extens
 
 <div align="center">
 
-# CONTATO
+## ✦ VAMOS NOS CONECTAR?
 
 <br>
 
-<a href="https://www.linkedin.com/in/mayne-zardo-moretti-20b99842a?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-
-<img src="https://img.shields.io/badge/LINKEDIN-F1E8FA?style=for-the-badge&logo=linkedin&logoColor=9B63CA"/>
-
+<a href="https://www.linkedin.com/in/mayne-zardo-moretti-20b99842a/">
+<img src="https://img.shields.io/badge/LINKEDIN-9B63CA?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-   
-
-<a href="https://www.instagram.com/maynemoretti_">
-
-<img src="https://img.shields.io/badge/INSTAGRAM-F1E8FA?style=for-the-badge&logo=instagram&logoColor=9B63CA"/>
-
+<a href="https://www.instagram.com/maynemoretti_/">
+<img src="https://img.shields.io/badge/INSTAGRAM-9B63CA?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9B63CA&height=120&section=footer" width="100%"/>
+*Aprendendo, desenvolvendo e evoluindo a cada linha de código.*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7543A3,100:9B63CA&height=120&section=footer" width="100%"/>
 
 </div>
